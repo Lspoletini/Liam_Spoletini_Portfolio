@@ -1,5 +1,5 @@
 # Liam Spoletini
-## [Project 1: Wine Quality](https://github.com/Lspoletini/WineHearts)
+## Project 1: Wine Quality [[Repo link]](https://github.com/Lspoletini/WineHearts)
 Final Project Submission for Statistical Machine Learning (STAT 627) at American University
 ### Description
 - Compared ordinal and multinomial logistic regression techniques for predicting wine quality with a dataset of chemical indicators.
