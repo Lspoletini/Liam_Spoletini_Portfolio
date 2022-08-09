@@ -1,4 +1,3 @@
-# Professional Portfolio - Liam Spoletini
 
 ## [Wine Quality](https://github.com/Lspoletini/WineHearts)
 ### Final Project Submission for Statistical Machine Learning (STAT 627) at American University
