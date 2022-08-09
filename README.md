@@ -1,2 +1,6 @@
-# Liam_Spoletini_Portfolio
-Professional Portfolio
+# Professional Portfolio - Liam Spoletini
+
+## [Wine Quality](https://github.com/Lspoletini/WineHearts)
+### Final Project Submission for Statistical Machine Learning (STAT 627) at American University
+- Compared ordinal and multinomial logistic regression techniques for predicting wine quality with a dataset of chemical indicators.
+- Reduced dimensionality using Principal Components, tuned via cross-validation with different cost functions.
