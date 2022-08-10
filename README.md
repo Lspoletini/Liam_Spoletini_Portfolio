@@ -4,8 +4,10 @@
 Final Project Submission for Statistical Machine Learning (STAT 627) at American University   
 [**PDF of Report**](https://github.com/Lspoletini/WineHearts/blob/main/R/FinalProject.pdf)  
 [**RMarkdown File**](https://github.com/Lspoletini/WineHearts/blob/main/R/FinalProject.Rmd)    
+
 ### Description
-- Compared ordinal and multinomial logistic regression techniques for predicting wine quality with a dataset of chemical indicators.
+- Compared ordinal logistic regression, multinomial logistic regression, and linear regression for predicting wine quality with a dataset of chemical indicators.
 - Reduced dimensionality using Principal Components, tuned via cross-validation with different cost functions.
 
+![](/images/)
 
