@@ -10,4 +10,7 @@ Final Project Submission for Statistical Machine Learning (STAT 627) at American
 - Reduced dimensionality using Principal Components, tuned via cross-validation with different cost functions.
 
 ![](/images/Screen%20Shot%202022-08-10%20at%201.18.30%20PM.png)
-Sample Figure 1: Distribution of Predictor Variables
+**Sample Figure 1:** Distribution of Predictor Variables
+
+![](/images/Screen%20Shot%202022-08-10%20at%201.19.02%20PM.png)
+**Sample Figure 1:** 10-Fold CV Plot for Principal Components Regression
