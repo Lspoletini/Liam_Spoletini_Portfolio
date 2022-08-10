@@ -13,4 +13,4 @@ Final Project Submission for Statistical Machine Learning (STAT 627) at American
 **Sample Figure 1:** Distribution of Predictor Variables
 
 ![](/images/Screen%20Shot%202022-08-10%20at%201.19.02%20PM.png)
-**Sample Figure 1:** 10-Fold CV Plot for Principal Components Regression
+**Sample Figure 2:** 10-Fold CV Plot for Principal Components Regression
