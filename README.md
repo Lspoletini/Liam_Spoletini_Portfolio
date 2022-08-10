@@ -8,6 +8,9 @@ Final Project Submission for Statistical Machine Learning (STAT 627) at American
 ### Description
 - Compared ordinal logistic regression, multinomial logistic regression, and linear regression for predicting wine quality with a dataset of chemical indicators.
 - Reduced dimensionality using Principal Components, tuned via cross-validation with different cost functions.
+- Language: R
+- Packages: tidyverse, glmnet, e1071, nnet, etc.
+- Skills: regression, parameter tuning, dimensionality reduction
 
 ![](/images/Screen%20Shot%202022-08-10%20at%201.18.30%20PM.png)
 **Sample Figure 1:** Distribution of Predictor Variables
