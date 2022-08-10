@@ -2,8 +2,8 @@
 
 ## Project 1: Wine Quality [[Repo link]](https://github.com/Lspoletini/WineHearts)
 Final Project Submission for Statistical Machine Learning (STAT 627) at American University   
-[**PDF of Report**](https://github.com/Lspoletini/WineHearts/blob/main/R/FinalProject.pdf)  
-[**RMarkdown File**](https://github.com/Lspoletini/WineHearts/blob/main/R/FinalProject.Rmd)    
+[**PDF of Report**](https://github.com/Lspoletini/WineHearts/blob/main/R/WineQuality.pdf)  
+[**RMarkdown File**](https://github.com/Lspoletini/WineHearts/blob/main/R/WineQuality.Rmd)    
 
 ### Description
 - Compared ordinal logistic regression, multinomial logistic regression, and linear regression for predicting wine quality with a dataset of chemical indicators.
