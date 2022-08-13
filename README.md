@@ -18,7 +18,8 @@ Final Project Submission for Statistical Machine Learning (STAT 627) at American
 [**RMarkdown File**](https://github.com/Lspoletini/WineHearts/blob/main/Heart-Disease.Rmd)  
 
 #### Description
-- Built an SVM-classifier to classify patients in a sample dataset as at risk for heart disease
-- Used a Grid Search cross-validation to identify optimal hyperparameters for the classifier
+- Built and compared SVM and random forest models for classifying patients at risk for heart disease.
+- Used a Grid Search cross-validation to identify optimal hyperparameters for each classifier.
+- Contextualized results relating to clinical usefulness.
 - Packages: tidyverse, caret, e1071, randomForest, others
 - Skills: SVM, grid search, Random Forest
