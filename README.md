@@ -2,7 +2,7 @@
 
 ## Project 1: Wine Quality [[Repo link]](https://github.com/Lspoletini/WineHearts)
 Final Project Submission for Statistical Machine Learning (STAT 627) at American University   
-[**PDF of Report**](https://github.com/Lspoletini/WineHearts/blob/main/R/WineQuality.pdf)  
+[**Report**](https://github.com/Lspoletini/WineHearts/blob/main/R/WineQuality.html)  
 [**RMarkdown File**](https://github.com/Lspoletini/WineHearts/blob/main/R/WineQuality.Rmd)    
 
 ### Description
@@ -14,8 +14,8 @@ Final Project Submission for Statistical Machine Learning (STAT 627) at American
 
 ## Project 2: Heart Disease Classifier [[Repo link]](https://github.com/Lspoletini/WineHearts)
 Final Project Submission for Statistical Machine Learning (STAT 627) at American University   
-[**PDF of Report**]()  
-[**RMarkdown File**]()  
+[Report**](https://github.com/Lspoletini/WineHearts/blob/main/Heart-Disease.html)  
+[**RMarkdown File**](https://github.com/Lspoletini/WineHearts/blob/main/Heart-Disease.Rmd)  
 
 #### Description
 - Built an SVM-classifier to classify patients in a sample dataset as at risk for heart disease
