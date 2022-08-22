@@ -35,6 +35,6 @@ Final Project Submission for Business Intelligence (ITEC 660) at American Univer
 - Evaluated organic and paid marketing channels in terms of lead generation, conversion, and quality.
 - Produced a Tableau dashboard summarizing long term trends, recent trends, and performance relative to KPIs.
 - Used logistic regression to assess lead quality and applicant strength.
-- *Packages: tidyverse*
-- *Skills: logistic regression, dashboards, teamwork, presentation skills *
+- *Packages: tidyverse* 
+- *Skills: logistic regression, dashboards, teamwork, presentation skills*
 
