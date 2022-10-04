@@ -2,17 +2,17 @@
 
 ## Current Projects:
 
-### Analysis of Solar Radiation from Satellite Readings- *NASA Collaboration*  
+Deep Learning for Calibration of Solar Data Instrument Calibration- *NASA Collaboration*  
 
 Project Advisor: Dr. Leah Ding  
 Techniques: Signal decomposition, Deep Learning, LSTMs, Transformers, etc.  
-Packages/Languages: PyTorch, MATLAB  
+Packages/Languages: PyTorch, LSTMs, Transformers
 
-### Multimodal Antisemitism Detection on Twitter  
+### Antisemitism Detection on Twitter  
 
 Project Advisors: Dr. Nathalie Japkowicz, Dr. Zois Boukouvalas  
-Techniques: NLP, Deep Learning, multimodal classification  
-Packages/Languages: nltk, PyTorch 
+Techniques: NLP, Deep Learning, network topology
+Packages/Languages: nltk, PyTorch, transformers
 
 ## Past/Closed Projects
 ###  Project 1: Wine Quality 
